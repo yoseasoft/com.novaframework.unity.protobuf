@@ -1,7 +1,7 @@
 {
   "name": "com.novaframework.unity.protobuf",
-  "displayName": "NovaFramework-Unity Protobuf",
-  "description": "NovaFramework-Unity Protobuf Package",
+  "displayName": "NovaFramework.Protobuf",
+  "description": "The Protobuf package for NovaFramework",
   "version": "1.0.0",
   "unity": "2018.3",
   "unityRelease": "0f1",
