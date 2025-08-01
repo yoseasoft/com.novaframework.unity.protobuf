@@ -1,10 +1,13 @@
 {
-    "name": "Protobuf",
+    "name": "Nova-Pkg.Protobuf.Extension",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "Nova-Pkg.LitJson",
+        "Nova-Pkg.Protobuf"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": true,
+    "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,

@@ -1,13 +1,10 @@
 {
-    "name": "ProtoBuf.Extension",
+    "name": "Nova-Pkg.Protobuf",
     "rootNamespace": "",
-    "references": [
-        "GUID:3899b028fb3e6a04eb59d1080f6a9a5d",
-        "GUID:8e02f8f8496b34d48941c0c59d3cc08a"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": false,
+    "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
