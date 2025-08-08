@@ -1,4 +1,4 @@
-﻿## NovaFramework - Unity 工程插件
+## NovaFramework - Unity 工程插件
 
 NovaFramework的Protobuf插件，提供Protobuf相关的功能接口。
 
